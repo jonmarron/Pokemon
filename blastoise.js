@@ -1,2 +1,4 @@
-let blastoise = 'A-M'
+let blastoise = 'A-M.ost
+
+'
 
